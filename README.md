@@ -1,0 +1,1 @@
+This repository is where I'm going to familiarize myself with git & Github.
